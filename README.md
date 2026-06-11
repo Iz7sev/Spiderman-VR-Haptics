@@ -7,6 +7,16 @@ XR Bootcampにおいて制作したVRコンテンツです。
 Meta Questのハンドトラッキングと
 TapeTicsの振動触覚デバイスを用いて、
 スパイダーマンのように糸を発射できる体験を実現しました。
+## Demo
+
+
+
+https://github.com/user-attachments/assets/ec3119f6-fc98-403c-bdb8-c24f5ead7ac4
+
+
+
+https://github.com/user-attachments/assets/54e88cdb-0cc3-46e2-8976-550c11e247ce
+
 
 ## Features
 
@@ -29,20 +39,6 @@ TapeTicsの振動触覚デバイスを用いて、
 - ポーズ認識実装
 - 糸発射処理実装
 - 振動フィードバック連携
-
-## Demo
-
-
-
-https://github.com/user-attachments/assets/ec3119f6-fc98-403c-bdb8-c24f5ead7ac4
-
-## My Contributions
-
-- Implemented hand tracking using Meta Quest
-- Developed hand pose recognition system
-- Implemented web shooting mechanics
-- Integrated TapeTics haptic feedback
-- Improved user immersion through iterative testing
 
 ## Project Background
 
