@@ -10,11 +10,11 @@ TapeTicsの振動触覚デバイスを用いて、
 ## Demo
 
 
-
+GameScene
 https://github.com/user-attachments/assets/ec3119f6-fc98-403c-bdb8-c24f5ead7ac4
 
 
-
+RealScene
 https://github.com/user-attachments/assets/54e88cdb-0cc3-46e2-8976-550c11e247ce
 
 
