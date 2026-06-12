@@ -2,7 +2,7 @@
 
 ## Overview
 
-###This project was developed during an XR Bootcamp as a two-person team project.
+### This project was developed during an XR Bootcamp as a two-person team project.
 
 The system uses Meta Quest hand tracking to recognize the user’s Spider-Man hand gesture. When the pose is detected, the VR system shoots a web in the virtual space and sends a signal to a wrist-worn haptic device. The device then provides light and vibration feedback, allowing the user to feel that the web has been fired from their wrist.
 ## Demo
