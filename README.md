@@ -19,6 +19,10 @@ RealScene
 
 https://github.com/user-attachments/assets/54e88cdb-0cc3-46e2-8976-550c11e247ce
 
+Pose Recognition and Wrist Device Feedback
+
+The system uses an Intel RealSense camera to capture the user's hand and body movements and recognize predefined poses. When a specific pose is detected, a trigger signal is sent to a wrist-worn device. The device then provides feedback through LED lighting and vibration, allowing the user to immediately perceive that the pose has been successfully recognized. By combining visual and haptic feedback, the system creates a more immersive and interactive user experience.
+
 
 ## Features
 
