@@ -8,13 +8,14 @@ The system uses Meta Quest hand tracking to recognize the user’s Spider-Man ha
 ## Demo
 
 
-###GameScene
+### VR Game Scene
+
 This video shows the in-game experience where the user performs the Spider-Man pose and shoots a web in VR.
 
 https://github.com/user-attachments/assets/ec3119f6-fc98-403c-bdb8-c24f5ead7ac4
 
 
-RealScene
+### Real Device Scene
 
 https://github.com/user-attachments/assets/54e88cdb-0cc3-46e2-8976-550c11e247ce
 
