@@ -2,15 +2,14 @@
 
 ## Overview
 
-XR Bootcampにおいて制作したVRコンテンツです。
+###This project was developed during an XR Bootcamp as a two-person team project.
 
-Meta Questのハンドトラッキングと
-TapeTicsの振動触覚デバイスを用いて、
-スパイダーマンのように糸を発射できる体験を実現しました。
+The system uses Meta Quest hand tracking to recognize the user’s Spider-Man hand gesture. When the pose is detected, the VR system shoots a web in the virtual space and sends a signal to a wrist-worn haptic device. The device then provides light and vibration feedback, allowing the user to feel that the web has been fired from their wrist.
 ## Demo
 
 
-GameScene
+###GameScene
+This video shows the in-game experience where the user performs the Spider-Man pose and shoots a web in VR.
 
 https://github.com/user-attachments/assets/ec3119f6-fc98-403c-bdb8-c24f5ead7ac4
 
